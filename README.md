@@ -1,9 +1,9 @@
-### Hi there 👋 I am Maria!
+### Olá 👋 Eu sou a Maria!
 
-- 🙋🏻‍♀️ My pronouns: she/her
-- ☕ I’m currently learning Java!
-- 🥋 Fun fact: I am a Kung Fu Green Belt!
-- 📫 How to reach me: contatomaluleitao@gmail.com
+- 🙋🏻‍♀️ Meus pronomes: ela/dela
+- ☕ Atualmente estou aprendendo Java!
+- 🥋 Curiosidade: Eu sou uma Faixa Verde de Kung Fu!
+- 📫 Como entrar em contato comigo: contatomaluleitao@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
