@@ -2,7 +2,7 @@
 
 - 🙋🏻‍♀️ Meus pronomes: ela/dela
 - ☕ Atualmente estou aprendendo Java!
-- 🥋 Curiosidade: Eu sou uma Faixa Verde de Kung Fu!
+- 🥋 Curiosidade: Eu sou Campeã de Kung Fu!
 - 📫 Como entrar em contato comigo: contatomaluleitao@gmail.com
 
 <div style="display: inline_block"><br>
