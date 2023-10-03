@@ -1,9 +1,9 @@
-### Olá 👋 Eu sou a Maria!
+### Hi 👋 I'm Maria!
 
-- 🙋🏻‍♀️ Meus pronomes: ela/dela
-- ☕ Atualmente estou aprendendo Java!
-- 🥋 Curiosidade: Eu sou Campeã de Kung Fu!
-- 📫 Como entrar em contato comigo: contatomaluleitao@gmail.com
+- 🙋🏻‍♀️ My pronouns: she/her
+- 🐍 I'm currently learning Python!
+- 🥋 Fun fact: I'm a Kung Fu Champion!
+- 📫 How to reach me: malufln.99@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Malu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
