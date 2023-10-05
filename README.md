@@ -1,7 +1,6 @@
 ### Hi 👋 I'm Maria!
 
 - 🙋🏻‍♀️ My pronouns: she/her
-- 🐍 I'm currently learning Python!
 - 🥋 Fun fact: I'm a Kung Fu Champion!
 - 📫 How to reach me: malufln.99@gmail.com
 
